@@ -1,6 +1,7 @@
-# vue-webpack-simple
 
-> A Vue.js project
+# How to shrink a NavBar 
+
+> This project shows how a Bootstrap navbar can be shrink using a class that has a reactive propertie
 
 ## Build Setup
 
